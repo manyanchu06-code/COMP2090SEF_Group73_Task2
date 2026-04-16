@@ -8,7 +8,16 @@ Course Project for COMP2090SEF - Group 73 - Task 2
 
 ## Task 2: Self-Study on New Data Structure & Algorithm
 - **Data Structure**: Binary Tree  
-- **Algorithm**: Level-Order Traversal (BFS)  
+- **Algorithm**: Level-Order Traversal (BFS) **Binary Tree Traversal Algorithms**
+  (Pre‑order, In‑order, Post‑order, Level‑order)
+
+---
+
+## Project Overview
+This task includes self‑study of a **binary tree** (non‑course data structure) and four classic traversal algorithms.
+The implementation uses **object‑oriented programming (OOP)** to define tree nodes and binary tree structure,
+supports recursive DFS traversal and BFS level‑order traversal, with complete complexity analysis and test cases.
+ 
 
 **Repository Structure**  
 - `binary_tree.py` → Complete Python implementation  
@@ -16,4 +25,25 @@ Course Project for COMP2090SEF - Group 73 - Task 2
 - `README.md` → This file  
 
 **5-Minute Introduction Video**  
-[🔗 Insert your 5-minute video link here] (YouTube unlisted)
+[] (YouTube unlisted)
+
+## Content Included
+1. Binary Tree Node class (`TreeNode`)
+2. Binary Tree management class (`BinaryTree`)
+3. Four traversal algorithms:
+   - Pre‑order traversal
+   - In‑order traversal
+   - Post‑order traversal
+   - Level‑order traversal (BFS using queue)
+4. Example tree construction for demonstration
+5. Time & Space Complexity Analysis
+
+---
+
+## Key Concepts (Self‑Study Content)
+- Binary Tree structure and properties
+- Depth‑First Search (DFS: recursive)
+- Breadth‑First Search (BFS: iterative using deque)
+- Time Complexity: **O(n)** for all traversals
+- Space Complexity: **O(h)** or **O(w)**
+
