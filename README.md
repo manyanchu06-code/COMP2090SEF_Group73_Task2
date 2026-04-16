@@ -24,8 +24,11 @@ supports recursive DFS traversal and BFS level‑order traversal, with complete 
 - `user_guide.md` → How to run  
 - `README.md` → This file  
 
-**5-Minute Introduction Video**  
-[https://youtu.be/GUe-jPoZmaU] (YouTube unlisted)
+** Introduction Video**  
+
+[![Task 2 Introduction Video](https://img.youtube.com/vi/GUe-jPoZmaU/0.jpg)](https://www.youtube.com/watch?v=GUe-jPoZmaU)
+
+Click the image above to watch the 5-minute introduction video on Binary Tree and Level-Order Traversal.
 
 ## Content Included
 1. Binary Tree Node class (`TreeNode`)
