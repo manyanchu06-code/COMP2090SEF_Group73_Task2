@@ -24,7 +24,7 @@ supports recursive DFS traversal and BFS level‑order traversal, with complete 
 - `user_guide.md` → How to run  
 - `README.md` → This file  
 
-** Introduction Video**  
+**Introduction Video**  
 
 [![Task 2 Introduction Video](https://img.youtube.com/vi/GUe-jPoZmaU/0.jpg)](https://www.youtube.com/watch?v=GUe-jPoZmaU)
 
