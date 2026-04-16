@@ -11,9 +11,9 @@ Course Project for COMP2090SEF - Group 73 - Task 2
 - **Algorithm**: Level-Order Traversal (BFS)  
 
 **Repository Structure**  
-- `Task2/binary_tree.py` → Complete Python implementation  
-- `Task2/user_guide.md` → How to run  
-- `Task2/README.md` → This file  
+- `binary_tree.py` → Complete Python implementation  
+- `user_guide.md` → How to run  
+- `README.md` → This file  
 
 **5-Minute Introduction Video**  
 [🔗 Insert your 5-minute video link here] (YouTube unlisted)
